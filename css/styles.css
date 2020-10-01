@@ -476,6 +476,10 @@ display: flex;
   {
     font-size: 2.4rem;
   }
+    .logo
+  {
+        margin: 10px 0 0;
+  }
 }
 @media(max-width:600px)
 {
